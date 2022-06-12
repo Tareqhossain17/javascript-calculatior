@@ -48,6 +48,7 @@ body{
     background-color: #111;
     color: #fff;
 }
+
 .all-btn button:active{
     box-shadow: 0 0 10px yellowgreen;
 }
